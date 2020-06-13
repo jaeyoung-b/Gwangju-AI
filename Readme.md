@@ -2,7 +2,7 @@
 
 ## 1주차 과제 (2020.05.21)
 
-##1. 언어
+##1.__언어__
 * 구글번역(Google Translate): 텍스트 번역을 위해 구글이 무료로 제공하는 다언어 기계 번역 서비스이다. 안드로이드, iOS용 웹사이트 인터페이스, 모바일 앱, 그리고 개발자들이 브라우저 확장과 응용 소프트웨어를 개발하는 데 도움을 주는 API를 제공한다. ![alt text](https://upload.wikimedia.org/wikipedia/commons/2/2b/Screenshot_of_Google_Translate.png)
 
 ##2. 음성
