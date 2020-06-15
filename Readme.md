@@ -16,5 +16,7 @@
 
 ## 4주차 과제 (2020.06.11)
 
-* [딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파 & 역전파 계산](https://github.com/jaeyoung-b/Gwangju-AI/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
+* 딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파 & 역전파 계산
+
+* [4주차 과제 nbviewer](https://nbviewer.jupyter.org/github/jaeyoung-b/Gwangju-AI/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
 
